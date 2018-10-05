@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DBList>
+	<DBInfo NO="1" IP = "211.189.66.152" DBNAME = "PPST_GAME" LOGIN = "name" PWD="pwd" PORT="1910">
+	<Setting
+		SPNamePrefix = "up_"
+		SPNameSuffixSelect = "_Select"
+		SPNameSuffixUpdate = "_Update"
+		SPNameSuffixInsert = "_Insert"
+		SPNameSuffixDelete = "_Delete"
+		PathCmdClassTable = "D:\projects\EasyLib\DBTest\output\tables\"
+		PathCmdClassProcedure = "D:\projects\EasyLib\DBTest\output\Procedure\"
+		PathSPSelect = "D:\projects\EasyLib\DBTest\output\SP\" 
+		PathSPUpdate = "D:\projects\EasyLib\DBTest\output\SP\" 
+		PathSPInsert = "D:\projects\EasyLib\DBTest\output\SP\" 
+		PathSPDelete = "D:\projects\EasyLib\DBTest\output\SP\" 
+	/>
+	</DBInfo>
+	<DBInfo NO="2" IP = "211.189.66.152" DBNAME = "PPST_CFG"  LOGIN = "name" PWD="pwd" PORT="1910">
+	<Setting
+		SPNamePrefix = "up_"
+		SPNameSuffixSelect = "_Select"
+		SPNameSuffixUpdate = "_Update"
+		SPNameSuffixInsert = "_Insert"
+		SPNameSuffixDelete = "_Delete"
+		PathCmdClassTable = "D:\projects\EasyLib\DBTest\output\tables\"
+		PathCmdClassProcedure = "D:\projects\EasyLib\DBTest\output\Procedure\"
+		PathSPSelect = "D:\projects\EasyLib\DBTest\output\SP\" 
+		PathSPUpdate = "D:\projects\EasyLib\DBTest\output\SP\" 
+		PathSPInsert = "D:\projects\EasyLib\DBTest\output\SP\" 
+		PathSPDelete = "D:\projects\EasyLib\DBTest\output\SP\" 
+	/>
+	</DBInfo>
+</DBList>	
+

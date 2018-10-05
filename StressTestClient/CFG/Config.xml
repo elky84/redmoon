@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<Setting>
+  <Iocp ThreadCount = "10"/>
+  <Server IP = "192.168.11.17" PORT="7997"/>
+  <TestClient>
+    <!-- <Info Count = "1000" Action = "0"/> -->
+    <Info Count = "300" Action = "1"/> 
+  </TestClient>
+</Setting>	

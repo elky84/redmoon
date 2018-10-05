@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DBList>
+	<DBInfo NO="1" IP = "192.168.11.239" DBNAME = "PANGYA_S5_KR" LOGIN = "sa" PWD="tekken3" PORT="1433">
+	<Setting
+		SPNamePrefix = "up_"
+		SPNameSuffixSelect = "_Select"
+		SPNameSuffixUpdate = "_Update"
+		SPNameSuffixInsert = "_Insert"
+		SPNameSuffixDelete = "_Delete"
+		PathCmdClassTable = "D:\DB\tables\"
+		PathCmdClassProcedure = "D:\DB\Procedure\"
+		PathSPSelect = "D:\DB\SP\" 
+		PathSPUpdate = "D:\DB\SP\" 
+		PathSPInsert = "D:\DB\SP\" 
+		PathSPDelete = "D:\DB\SP\" 
+	/>
+	</DBInfo>
+</DBList>	
+
